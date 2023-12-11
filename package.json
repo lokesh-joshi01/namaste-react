@@ -1,0 +1,30 @@
+{
+  "name": "namaste-javascript",
+  "version": "1.0.0",
+  "description": "This is Namaste React",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokesh-joshi01/namaste-react.git"
+  },
+  "author": "Lokesh Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lokesh-joshi01/namaste-react/issues"
+  },
+  "homepage": "https://github.com/lokesh-joshi01/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "Last 10 Chrome version" , 
+    "Last 2 Firefox version"
+  ]
+}
